@@ -15,6 +15,8 @@
         <li>🌱 Always learning and growing in the world of software development</li>
     </ul>
     <p style="margin-bottom: 0;">💡 Passionate about creating user-friendly applications and robust backend systems!</p>
+        <li> 💻 2024.01 ~ 2024.12 : Samsung Software Academy For Youth - Mobile 11th </li>
+        <li> 🏦 2025.06 ~ : iM BANK Android Developer </li>
 </div>
 </div>
     <div style="text-align: left;">
